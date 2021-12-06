@@ -1,3 +1,3 @@
 -----------------------------------------
-# https://daiellys64.github.io/curriculo/
+#https://daiellys64.github.io/curriculo/
 -----------------------------------------

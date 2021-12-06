@@ -1,6 +1,13 @@
+.gradiente{
+    background-image:linear-gradient(to right,#C5ABF5,#B9B3FF);
+
+}
+.fundo_sobre{
+    background-color:#A851F5 ;
+}
 .cor_fundo{
-    background-color:#A4ACF5;
+    background-color:black;
 }
 .cornav{
-    color: #fff;
+    color:#fff;
 }

@@ -1,5 +1,5 @@
 .gradiente{
-    background-image:linear-gradient(to right,#C5ABF5,#B9B3FF);
+    background-image:linear-gradient(to right,#fff, #fff);
 
 }
 .fundo_sobre{
@@ -7,7 +7,13 @@
 }
 .cor_fundo{
     background-color:black;
+
 }
 .cornav{
     color:#fff;
+}
+
+.hobbies{
+    position: relative;
+    display: inline-block;
 }
